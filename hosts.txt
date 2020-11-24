@@ -177,7 +177,6 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagservices.com
 0.0.0.0 gtssl2-ocsp.geotrust.com
-0.0.0.0 gvt1.com
 0.0.0.0 haso.pubmatic.com
 0.0.0.0 heads-fab.spotify.com
 0.0.0.0 image2.pubmatic.com
