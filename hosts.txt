@@ -103,15 +103,12 @@
 0.0.0.0 cc-dt.com
 0.0.0.0 clickserve.cc-dt.com
 0.0.0.0 clientmetrics-pa.googleapis.com
-0.0.0.0 cloudfront.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 content.bitsontherun.com
 0.0.0.0 core.insightexpressai.com
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 creative.cc-dt.com
 0.0.0.0 creatives.doubleclick.net
-0.0.0.0 d2gi7ultltnc2u.cloudfront.net
-0.0.0.0 d3rt1990lpmkn.cloudfront.net
 0.0.0.0 desktop.spotify.com
 0.0.0.0 dfp.doubleclick.net
 0.0.0.0 domains.googlesyndication.com
@@ -519,8 +516,6 @@
 0.0.0.0 content.bitsontherun.com
 0.0.0.0 core.insightexpressai.com
 0.0.0.0 crashdump.spotify.com
-0.0.0.0 d2gi7ultltnc2u.cloudfront.net
-0.0.0.0 d3rt1990lpmkn.cloudfront.net
 0.0.0.0 desktop.spotify.com
 0.0.0.0 doubleclick.net
 0.0.0.0 ds.serving-sys.com
@@ -564,7 +559,6 @@
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 idsync-ext.rlcdn.com
 0.0.0.0 sto3.spotify.com
-0.0.0.0 d361oi6ppvq2ym.cloudfront.net
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 ads-west-colo.adsymptotic.com
 0.0.0.0 showads33000.pubmatic.com
